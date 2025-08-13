@@ -1,0 +1,46 @@
+{
+  "app-name": "Test",
+  "last-update": "2025-01-01T11:05:00",
+  "specific-pages": {
+    "welcome": {
+      "last-update": "2025-01-01T11:05:00",
+      "url": "https://ornek-link.com/welcome.md"
+    },
+    "page-not-found": {
+      "last-update": "2025-01-01T11:05:00",
+      "url": "https://ornek-link.com/404.md"
+    }
+  },
+  "website-content": [
+    {
+      "category": "Trackers",
+      "items": [
+        {
+          "name": "Bundle Tracker",
+          "last-update": "2025-01-01T11:05:00",
+          "url": "https://ornek-link.com/bundle-tracker.md"
+        },
+        {
+          "name": "Gift Tracker",
+          "last-update": "2025-01-01T11:05:00",
+          "url": "https://ornek-link.com/gift-tracker.md"
+        }
+      ]
+    },
+    {
+      "category": "Gold Guide",
+      "items": [
+        {
+          "name": "Farming",
+          "last-update": "2025-01-01T11:05:00",
+          "url": "https://ornek-link.com/farming.md"
+        },
+        {
+          "name": "Mining",
+          "last-update": "2025-01-01T11:05:00",
+          "url": "https://ornek-link.com/mining.md"
+        }
+      ]
+    }
+  ]
+}
