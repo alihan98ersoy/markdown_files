@@ -4,7 +4,7 @@
   "specific-pages": {
     "welcome": {
       "last-update": "2025-01-01T11:05:00",
-      "url": "https://ornek-link.com/welcome.md"
+      "url": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/test_development/md_files/welcome.md"
     },
     "page-not-found": {
       "last-update": "2025-01-01T11:05:00",
