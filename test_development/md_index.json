@@ -4,7 +4,7 @@
   "specific-pages": {
     "welcome": {
       "last-update": "2025-01-01T11:05:00",
-      "url": "https://ornek-link.com/welcome.md"
+      "url": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/test_development/md_files/welcome.md"
     },
     "page-not-found": {
       "last-update": "2025-01-01T11:05:00",
@@ -18,12 +18,12 @@
         {
           "name": "Bundle Tracker",
           "last-update": "2025-01-01T11:05:00",
-          "url": "https://ornek-link.com/bundle-tracker.md"
+          "url": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/test_development/md_files/bundle-tracker.md"
         },
         {
           "name": "Gift Tracker",
           "last-update": "2025-01-01T11:05:00",
-          "url": "https://ornek-link.com/gift-tracker.md"
+          "url": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/test_development/md_files/gift-tracker.md"
         }
       ]
     },
@@ -33,12 +33,12 @@
         {
           "name": "Farming",
           "last-update": "2025-01-01T11:05:00",
-          "url": "https://ornek-link.com/farming.md"
+          "url": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/test_development/md_files/farming.md"
         },
         {
           "name": "Mining",
           "last-update": "2025-01-01T11:05:00",
-          "url": "https://ornek-link.com/mining.md"
+          "url": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/test_development/md_files/mining.md"
         }
       ]
     }
