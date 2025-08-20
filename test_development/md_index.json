@@ -4,11 +4,13 @@
   "specific-pages": {
 	  {
           "name": "welcome",
+	  	  "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
           "last-update": "2025-01-01T11:05:00",
           "url": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/test_development/md_files/welcome.md"
         },
         {
           "name": "page-not-found",
+		  "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
           "last-update": "2025-01-01T11:05:00",
           "url": "https://ornek-link.com/404.md"
         }
@@ -16,14 +18,17 @@
   "website-content": [
     {
       "category": "Trackers",
+	  "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
       "items": [
         {
           "name": "Bundle Tracker",
+		  "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
           "last-update": "2025-01-01T11:05:00",
           "url": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/test_development/md_files/bundle-tracker.md"
         },
         {
           "name": "Gift Tracker",
+		  "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
           "last-update": "2025-01-01T11:05:00",
           "url": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/test_development/md_files/gift-tracker.md"
         }
@@ -31,14 +36,17 @@
     },
     {
       "category": "Gold Guide",
+	  "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
       "items": [
         {
           "name": "Farming",
+		  "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
           "last-update": "2025-01-01T11:05:00",
           "url": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/test_development/md_files/farming.md"
         },
         {
           "name": "Mining",
+		  "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
           "last-update": "2025-01-01T11:05:00",
           "url": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/test_development/md_files/mining.md"
         }
@@ -46,14 +54,17 @@
     },
     {
       "category": "Test",
+	  "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
       "items": [
         {
           "name": "Test",
+		  "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
           "last-update": "2025-01-01T11:05:00",
           "url": "https://raw.githubusercontent.com/alihan98ersoy/alihan98ersoy/refs/heads/main/README.md"
         },
 		{
           "name": "TestEverything",
+		  "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
           "last-update": "2025-01-01T11:05:00",
           "url": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/test_development/md_files/test2everything.md"
         }
