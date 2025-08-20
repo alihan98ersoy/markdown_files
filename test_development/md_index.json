@@ -1,20 +1,20 @@
 {
   "app-name": "Test",
   "last-update": "2025-01-01T11:05:00",
-  "specific-pages": {
-	  {
-          "name": "welcome",
-	  	  "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
-          "last-update": "2025-01-01T11:05:00",
-          "url": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/test_development/md_files/welcome.md"
-        },
-        {
-          "name": "page-not-found",
-		  "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
-          "last-update": "2025-01-01T11:05:00",
-          "url": "https://ornek-link.com/404.md"
-        }
-  },
+  "specific-pages": [
+    {
+      "name": "welcome",
+      "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
+      "last-update": "2025-01-01T11:05:00",
+      "url": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/test_development/md_files/welcome.md"
+    },
+    {
+      "name": "page-not-found",
+      "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
+      "last-update": "2025-01-01T11:05:00",
+      "url": "https://ornek-link.com/404.md"
+    }
+  ],
   "website-content": [
     {
       "category": "Trackers",
