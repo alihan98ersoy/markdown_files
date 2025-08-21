@@ -1,5 +1,5 @@
 {
-  "app-name": "Test",
+  "app-name": "GodotTestAwesome",
   "last-update": "2025-01-01T11:05:00",
   "specific-pages": [
     {
@@ -18,11 +18,11 @@
   "website-content": [
     {
       "category": "Trackers",
-	  "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
+	  "icon": "https://raw.githubusercontent.com/google/material-design-icons/refs/heads/master/png/device/nfc/materialicons/48dp/2x/baseline_nfc_black_48dp.png",
       "items": [
         {
           "name": "Bundle Tracker",
-		  "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
+		  "icon": "https://raw.githubusercontent.com/google/material-design-icons/refs/heads/master/png/device/60fps/materialiconstwotone/48dp/2x/twotone_60fps_black_48dp.png",
           "last-update": "2025-01-01T11:05:00",
           "url": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/test_development/md_files/bundle-tracker.md"
         },
