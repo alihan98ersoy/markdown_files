@@ -8,67 +8,91 @@
       "name": "welcome",
       "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
       "last-update": "2025-01-01T11:05:00",
-      "url": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/test_development/md_files/welcome.md"
+      "url": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/test_development/md_files/welcome.md",
+      "release-date": "2024-12-15T10:00:00",
+      "thumbnail": "https://raw.githubusercontent.com/google/material-design-icons/refs/heads/master/png/action/home/materialicons/48dp/2x/baseline_home_black_48dp.png",
+      "description": "Welcome page with getting started guide and introduction to the application"
     },
     {
       "name": "page-not-found",
       "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
       "last-update": "2025-01-01T11:05:00",
-      "url": "https://ornek-link.com/404.md"
+      "url": "https://ornek-link.com/404.md",
+      "release-date": "2024-11-20T14:30:00",
+      "thumbnail": "https://raw.githubusercontent.com/google/material-design-icons/refs/heads/master/png/alert/error/materialicons/48dp/2x/baseline_error_black_48dp.png",
+      "description": "Custom 404 error page for handling not found requests"
     }
   ],
   "website-content": [
     {
       "category": "Trackers",
-	  "icon": "https://raw.githubusercontent.com/google/material-design-icons/refs/heads/master/png/device/nfc/materialicons/48dp/2x/baseline_nfc_black_48dp.png",
+      "icon": "https://raw.githubusercontent.com/google/material-design-icons/refs/heads/master/png/device/nfc/materialicons/48dp/2x/baseline_nfc_black_48dp.png",
       "items": [
         {
           "name": "Bundle Tracker",
-		  "icon": "https://raw.githubusercontent.com/google/material-design-icons/refs/heads/master/png/device/60fps/materialiconstwotone/48dp/2x/twotone_60fps_black_48dp.png",
+          "icon": "https://raw.githubusercontent.com/google/material-design-icons/refs/heads/master/png/device/60fps/materialiconstwotone/48dp/2x/twotone_60fps_black_48dp.png",
           "last-update": "2025-01-01T11:05:00",
-          "url": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/test_development/md_files/bundle-tracker.md"
+          "url": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/test_development/md_files/bundle-tracker.md",
+          "release-date": "2024-10-15T09:45:00",
+          "thumbnail": "https://raw.githubusercontent.com/google/material-design-icons/refs/heads/master/png/maps/local_offer/materialicons/48dp/2x/baseline_local_offer_black_48dp.png",
+          "description": "Track your bundle purchases and savings across different gaming platforms and stores"
         },
         {
           "name": "Gift Tracker",
-		  "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
+          "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
           "last-update": "2025-01-01T11:05:00",
-          "url": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/test_development/md_files/gift-tracker.md"
+          "url": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/test_development/md_files/gift-tracker.md",
+          "release-date": "2024-09-22T16:20:00",
+          "thumbnail": "https://raw.githubusercontent.com/google/material-design-icons/refs/heads/master/png/action/card_giftcard/materialicons/48dp/2x/baseline_card_giftcard_black_48dp.png",
+          "description": "Keep track of gifts received and given throughout the year with detailed records"
         }
       ]
     },
     {
       "category": "Gold Guide",
-	  "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
+      "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
       "items": [
         {
           "name": "Farming",
-		  "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
+          "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
           "last-update": "2025-01-01T11:05:00",
-          "url": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/test_development/md_files/farming.md"
+          "url": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/test_development/md_files/farming.md",
+          "release-date": "2024-08-10T12:15:00",
+          "thumbnail": "https://raw.githubusercontent.com/google/material-design-icons/refs/heads/master/png/places/spa/materialicons/48dp/2x/baseline_spa_black_48dp.png",
+          "description": "Complete guide to gold farming techniques, optimal routes, and efficient strategies for maximum profit"
         },
         {
           "name": "Mining",
-		  "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
+          "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
           "last-update": "2025-01-01T11:05:00",
-          "url": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/test_development/md_files/mining.md"
+          "url": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/test_development/md_files/mining.md",
+          "release-date": "2024-07-05T08:30:00",
+          "thumbnail": "https://raw.githubusercontent.com/google/material-design-icons/refs/heads/master/png/maps/terrain/materialicons/48dp/2x/baseline_terrain_black_48dp.png",
+          "description": "Mining strategies, best locations, and resource management tips for profitable mining operations"
         }
       ]
     },
     {
       "category": "Test",
-	  "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
+      "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
       "items": [
         {
           "name": "Test",
-		  "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
+          "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
           "last-update": "2025-01-01T11:05:00",
-          "url": "https://raw.githubusercontent.com/alihan98ersoy/alihan98ersoy/refs/heads/main/README.md"
+          "url": "https://raw.githubusercontent.com/alihan98ersoy/alihan98ersoy/refs/heads/main/README.md",
+          "release-date": "2024-06-01T15:00:00",
+          "thumbnail": "https://raw.githubusercontent.com/google/material-design-icons/refs/heads/master/png/action/bug_report/materialicons/48dp/2x/baseline_bug_report_black_48dp.png",
+          "description": "Basic test page for development and debugging purposes"
         },
-		{
+        {
           "name": "TestEverything",
-		  "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
+          "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
           "last-update": "2025-01-01T11:05:00",
-          "url": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/test_development/md_files/test2everything.md"
+          "url": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/test_development/md_files/test2everything.md",
+          "release-date": "2024-05-15T11:45:00",
+          "thumbnail": "https://raw.githubusercontent.com/google/material-design-icons/refs/heads/master/png/action/settings/materialicons/48dp/2x/baseline_settings_black_48dp.png",
+          "description": "Comprehensive testing page covering all features and functionalities of the application"
         }
       ]
     }
