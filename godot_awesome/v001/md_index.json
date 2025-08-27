@@ -1,0 +1,43 @@
+{
+  "app-name": "GodotAwesome",
+  "app-theme": "default",
+  "app-logo": "https://raw.githubusercontent.com/google/material-design-icons/refs/heads/master/symbols/web/action_key/materialsymbolsoutlined/action_key_24px.svg",
+  "last-update": "2025-08-23T11:03:00",
+  "specific-pages": [
+    {
+      "name": "welcome",
+      "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
+      "last-update": "2025-01-01T11:05:00",
+      "url": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/test_development/md_files/welcome.md",
+      "release-date": "2024-12-15T10:00:00",
+      "thumbnail": "https://raw.githubusercontent.com/google/material-design-icons/refs/heads/master/png/action/home/materialicons/48dp/2x/baseline_home_black_48dp.png",
+      "description": "Welcome page with getting started guide and introduction to the application"
+    },
+    {
+      "name": "page-not-found",
+      "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
+      "last-update": "2025-01-01T11:05:00",
+      "url": "https://ornek-link.com/404.md",
+      "release-date": "2024-11-20T14:30:00",
+      "thumbnail": "https://raw.githubusercontent.com/google/material-design-icons/refs/heads/master/png/alert/error/materialicons/48dp/2x/baseline_error_black_48dp.png",
+      "description": "Custom 404 error page for handling not found requests"
+    }
+  ],
+  "website-content": [
+    {
+      "category": "About Me",
+      "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
+      "items": [
+        {
+          "name": "About Me",
+          "icon": "https://raw.githubusercontent.com/google/material-design-icons/refs/heads/master/png/action/bug_report/materialicons/48dp/2x/baseline_bug_report_black_48dp.png",
+          "last-update": "2025-27-08T11:05:00",
+          "url": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/test_development/md_files/about_me.md",
+          "release-date": "2025-27-08T11:05:00",
+          "thumbnail": "https://raw.githubusercontent.com/google/material-design-icons/refs/heads/master/png/action/bug_report/materialicons/48dp/2x/baseline_bug_report_black_48dp.png",
+          "description": "This is Alihan"
+        }
+      ]
+    }
+  ]
+}
