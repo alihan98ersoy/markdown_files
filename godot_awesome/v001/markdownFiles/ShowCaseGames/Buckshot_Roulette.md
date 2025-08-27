@@ -10,7 +10,7 @@
 
 ---
 
-<img src="https://cdn2.steamgriddb.com/thumb/f30c31a5a26da5381ca3ff044b2d3948.jpg" style="zoom:200%;" />
+<img src="https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/godot_awesome/v001/assets/f30c31a5a26da5381ca3ff044b2d3948.png" style="zoom:200%;" />
 
 ##  Overview
 
