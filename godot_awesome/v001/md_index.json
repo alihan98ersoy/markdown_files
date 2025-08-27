@@ -23,21 +23,36 @@
       "description": "Custom 404 error page for handling not found requests"
     }
   ],
-  "website-content": [
-    {
-      "category": "About Me",
-      "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
+   "website-content": [
+
+ {
+      "category": "ShowCase",
+      "icon": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/godot_awesome/v001/assets/trophy_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.png",
       "items": [
         {
-          "name": "About Me",
+          "name": "Buckshot Roulette",
           "icon": "https://raw.githubusercontent.com/google/material-design-icons/refs/heads/master/png/action/bug_report/materialicons/48dp/2x/baseline_bug_report_black_48dp.png",
-          "last-update": "2025-27-08T11:05:00",
-          "url": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/godot_awesome/v001/markdownFiles/About%20Me.md",
-          "release-date": "2025-27-08T11:05:00",
-          "thumbnail": "https://raw.githubusercontent.com/google/material-design-icons/refs/heads/master/png/action/bug_report/materialicons/48dp/2x/baseline_bug_report_black_48dp.png",
+          "last-update": "2025-27-08T20:05:00",
+          "url": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/godot_awesome/v001/markdownFiles/ShowCaseGames/Buckshot_Roulette.md",
+          "release-date": "2025-27-08T20:05:00",
+          "thumbnail": "https://cdn2.steamgriddb.com/thumb/f30c31a5a26da5381ca3ff044b2d3948.jpg",
           "description": "This is Alihan"
-        }
-      ]
-    }
+        },
+
+​    {
+​      "category": "About Me",
+​      "icon": "https://raw.githubusercontent.com/google/material-design-icons/f5f256f04db18b1e95fccc4195c9242da2fc941b/png/action/123/materialicons/48dp/2x/baseline_123_black_48dp.png",
+​      "items": [
+​        {
+​          "name": "About Me",
+​          "icon": "https://raw.githubusercontent.com/google/material-design-icons/refs/heads/master/png/action/bug_report/materialicons/48dp/2x/baseline_bug_report_black_48dp.png",
+​          "last-update": "2025-27-08T11:05:00",
+​          "url": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/test_development/md_files/about_me.md",
+​          "release-date": "2025-27-08T11:05:00",
+​          "thumbnail": "https://raw.githubusercontent.com/google/material-design-icons/refs/heads/master/png/action/bug_report/materialicons/48dp/2x/baseline_bug_report_black_48dp.png",
+​          "description": "This is Alihan"
+​        }
+​      ]
+​    }
   ]
 }
