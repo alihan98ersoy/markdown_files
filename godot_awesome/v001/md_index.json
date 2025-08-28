@@ -25,6 +25,21 @@
   ],
   "website-content": [
     {
+      "category": "News & Updates",
+      "icon": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/godot_awesome/v001/assets/trophy_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.png",
+      "items": [
+        {
+          "name": "📰 News & Updates – August 2025",
+          "icon": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/godot_awesome/v001/assets/trophy_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.png",
+          "last-update": "2025-08-28T16:32:00",
+          "url": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/godot_awesome/v001/markdownFiles/newsUpdates/%F0%9F%93%B0%20News%20%26%20Updates%20%E2%80%93%20August%202025.md",
+          "release-date": "2025-08-28T16:32:00",
+          "thumbnail": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/godot_awesome/v001/assets/f30c31a5a26da5381ca3ff044b2d3948.png",
+          "description": "The latest Godot Awesome News & Updates"
+        }
+      ]
+    },
+    {
       "category": "ShowCase",
       "icon": "https://raw.githubusercontent.com/alihan98ersoy/markdown_files/refs/heads/master/godot_awesome/v001/assets/trophy_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.png",
       "items": [
