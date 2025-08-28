@@ -1,10 +1,3 @@
-# 📰 News & Updates – August 2025
-
-Welcome to the latest **Godot Awesome News & Updates**!  
-Here’s what’s been happening in the **Godot Engine** world and the wider indie game dev community this month. 🚀  
-
----
-
 ## 🔥 Godot 4.3 Beta Released
 The Godot team has officially released **Godot 4.3 Beta**, featuring:
 - Significant **3D performance improvements** with Vulkan  
